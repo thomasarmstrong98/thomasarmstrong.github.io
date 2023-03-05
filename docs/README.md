@@ -1,5 +1,3 @@
-### Tom Armstrong
-
 <p float="left">
   <img src="assets/images/bamburgh.jpg" alt="Bamburgh Castle" height="350" />
   <img src="assets/images/me.jpg" height="350" /> 
